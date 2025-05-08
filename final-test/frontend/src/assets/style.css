@@ -1,57 +1,57 @@
 .main {
-  font-family: "Comic Sans MS", cursive;
-  background-color: #fff8f0;
-  padding: 20px;
+    font-family: "Comic Sans MS", cursive;
+    background-color: #fff8f0;
+    padding: 20px;
 }
 
 .header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: #ffdfd6;
-  padding: 10px 20px;
-  border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffdfd6;
+    padding: 10px 20px;
+    border-radius: 10px;
 }
 
 .auth button {
-  margin-left: 10px;
-  background-color: #f9a1bc;
-  border: none;
-  padding: 6px 12px;
-  border-radius: 12px;
-  cursor: pointer;
+    margin-left: 10px;
+    background-color: #f9a1bc;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 12px;
+    cursor: pointer;
 }
 
 .login-box {
-  margin-top: 10px;
-  padding: 10px;
-  background: #ffe8ec;
-  border-radius: 10px;
-  display: flex;
-  flex-direction: column;
-  width: 300px;
+    margin-top: 10px;
+    padding: 10px;
+    background: #ffe8ec;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
 }
 
 .login-box input {
-  margin-bottom: 8px;
-  padding: 6px;
-  border-radius: 6px;
-  border: 1px solid #ccc;
+    margin-bottom: 8px;
+    padding: 6px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
 }
 
 .gallery {
-  margin-top: 20px;
+    margin-top: 20px;
 }
 
 .images {
-  display: flex;
-  flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .images img {
-  width: 200px;
-  height: 160px;
-  margin: 10px;
-  border-radius: 10px;
-  box-shadow: 0 2px 5px #ccc;
+    width: 200px;
+    height: 160px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px #ccc;
 }

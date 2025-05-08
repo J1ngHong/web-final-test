@@ -11,9 +11,9 @@ export default {
 </script>
 
 <style>
-/* 全局样式 */
 body {
   margin: 0;
-  font-family: 'Segoe UI', sans-serif;
+  padding: 0;
+  background-color: #fffaf6;
 }
 </style>
